@@ -1,0 +1,21 @@
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+*~
+.idea/
+.vscode/
+
+# Obsidian vault metadata (in case this is ever edited inside a vault)
+.obsidian/
+.trash/
+
+# Logs and temp
+*.log
+tmp/
+.tmp/
+
+# Environment / secrets
+.env
+.env.*
